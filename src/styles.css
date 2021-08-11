@@ -1,0 +1,15 @@
+body {
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: #ff803e;
+}
+a {
+    color: brown;
+}
+a:visited {
+    color:black ;
+}
